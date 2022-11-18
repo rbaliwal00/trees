@@ -1,5 +1,7 @@
 package BinaryTree;
 
+import Node.Node;
+
 //Building a Binary Tree
 public class BuildBT {
     static int index = -1;
